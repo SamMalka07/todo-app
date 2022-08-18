@@ -59,7 +59,7 @@
 
 @media screen and (max-width:720px){
 #form-single {
-    width: 100%;
+    width: 95%;
     transition: 0.5s;
   }
 }
